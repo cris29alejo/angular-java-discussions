@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "author": "Juan",
+    "content": "¿Qué opinan sobre Spring Boot?",
+    "parentId": null,
+    "replies": [
+      {
+        "id": "2",
+        "author": "Ana",
+        "content": "Es muy útil para crear APIs REST.",
+        "parentId": "1",
+        "replies": []
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "author": "Luis",
+    "content": "Angular o React, ¿cuál prefieren?",
+    "parentId": null,
+    "replies": []
+  }
+]
